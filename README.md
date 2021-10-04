@@ -1,6 +1,7 @@
 # Roll20-DnD3.5-spell-Macromancer-SPA
 Roll20 Dungeons &amp; Dragons 3.5e spell macromancer (in Spanish)
-Aquí encontrarán una útil herramienta para la programación de macros de conjuros para D&D 3.5e, para la plataforma de roll online roll20.
+
+Aquí disponen de una útil herramienta para la programación de macros de conjuros para D&D 3.5e, para la plataforma de rol online roll20.
 
 Entre otras funciones, incluye las siguientes (cambios respecto a una versión 1.1, no disponible por quedar obsoleta):
 - Se añade un bloque inicial de preguntas que luego no se repiten (salvo reinicio del programa), como los bonificadores raciales y cláseos aplicados a escuelas particulares, o como el tipo de conjuro (arcano, divino, general); de esta forma se pueden programar varios conjuros para un mismo personaje de forma más ágil y sin tantas preguntas repetitivas
